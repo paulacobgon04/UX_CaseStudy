@@ -1,4 +1,4 @@
-<img width="2048" height="1365" alt="imagen" src="https://github.com/user-attachments/assets/f0f15345-a93f-4ec6-ae71-c2bfac0a048a" /># DIU26
+
 Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
@@ -26,7 +26,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
-<img width="1024" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/b2c35540-4a07-49a5-92dc-e6e0113c89d7" />
+<img width="500" height="500" alt="imagen" src="https://github.com/user-attachments/assets/b2c35540-4a07-49a5-92dc-e6e0113c89d7" />
 
 
 
