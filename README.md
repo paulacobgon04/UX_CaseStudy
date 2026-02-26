@@ -19,16 +19,14 @@ Actualizado: 26/02/2026
 
 Grupo: DIU1_SP.  Curso: 2025/26 
 
-Nombre del Proyecto: 
-
-Osaka Bowl & Roll
+Nombre del Proyecto: Osaka Bowl & Roll
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
-<img width="2048" height="1365" alt="imagen" src="https://github.com/user-attachments/assets/2ffb2f94-ecc2-41f8-a537-68946f800111" />
+<img width="1048" height="365" alt="imagen" src="https://github.com/user-attachments/assets/2ffb2f94-ecc2-41f8-a537-68946f800111" />
 
 
 
