@@ -32,7 +32,7 @@ Logotipo:
 
 
 
-Miembros y nombre del equipo:
+Miembros y nombre del equipo: DIU1_SP
  * :bust_in_silhouette:  Sergio Sánchez González     :octocat:     
  * :bust_in_silhouette:  Paula Cobos González     :octocat:
 
