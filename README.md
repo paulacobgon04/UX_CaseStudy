@@ -1,4 +1,4 @@
-# DIU26
+<img width="2048" height="1365" alt="imagen" src="https://github.com/user-attachments/assets/f0f15345-a93f-4ec6-ae71-c2bfac0a048a" /># DIU26
 Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
 
 * [Guiones de prácticas](GuionesPracticas/)
@@ -8,7 +8,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 14/01/2026
+Actualizado: 26/02/2026
 
 
 
@@ -17,31 +17,26 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIU1_SP.  Curso: 2025/26 
 
 Nombre del Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Osaka Bowl & Roll
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
+<img width="2048" height="1365" alt="imagen" src="https://github.com/user-attachments/assets/2ffb2f94-ecc2-41f8-a537-68946f800111" />
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Sergio Sánchez González     :octocat:     
+ * :bust_in_silhouette:  Paula Cobos González     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+
 
 ----- 
 
