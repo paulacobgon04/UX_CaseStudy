@@ -26,7 +26,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
-![Uploading imagen.png…]()
+<img width="1024" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/b2c35540-4a07-49a5-92dc-e6e0113c89d7" />
 
 
 
