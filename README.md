@@ -4,8 +4,6 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 Actualizado: 26/02/2026
 
 ## Paso 0 My UX-Case Study
-![Método UX](img/caseStudy.png) 
------
 
 Grupo: DIU1_SP.  Curso: 2025/26 
 
