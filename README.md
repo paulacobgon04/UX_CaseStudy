@@ -1,5 +1,5 @@
 
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Sabores con encanto ) 
 
 Actualizado: 26/02/2026
 
