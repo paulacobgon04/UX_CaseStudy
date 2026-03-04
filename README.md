@@ -10,8 +10,8 @@ Grupo: DIU1_SP.  Curso: 2025/26
 Nombre del Proyecto: Osaka Bowl & Roll
 
 Descripción: 
-Nuestra propuesta consiste en el diseño y análisis de una plataforma web orientada a promover el ocio gastronómico sostenible en Granada. Osaka Bowl & Roll se centra en la oferta de bowls y rolls elaborados con ingredientes frescos, saludables y de proximidad (Km 0), fomentando el consumo responsable y el apoyo al comercio local.
 
+Nuestra propuesta consiste en el diseño y análisis de una plataforma web orientada a promover el ocio gastronómico sostenible en Granada. Osaka Bowl & Roll se centra en la oferta de bowls y rolls elaborados con ingredientes frescos, saludables y de proximidad (Km 0), fomentando el consumo responsable y el apoyo al comercio local.
 La plataforma permitirá a los usuarios consultar menús, conocer el origen de los ingredientes, localizar puntos de venta y realizar pedidos de forma sencilla. Además, se pretende mejorar la experiencia de usuario mediante una interfaz clara, intuitiva y accesible, facilitando la navegación y el acceso a la información relevante sobre alimentación sostenible y opciones gastronómicas saludables en la ciudad.
 
 Logotipo: 
