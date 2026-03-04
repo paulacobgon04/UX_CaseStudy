@@ -1,7 +1,7 @@
 
 Prácticas Diseño Interfaces de Usuario (Tema: Sabores con encanto ) 
 
-Actualizado: 26/02/2026
+Actualizado: 04/03/2026
 
 ## Paso 0 My UX-Case Study
 
