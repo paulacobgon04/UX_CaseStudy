@@ -59,10 +59,10 @@ Miembros y nombre del equipo: DIU1_SP
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+<img width="912" height="711" alt="Captura desde 2026-03-04 20-39-48" src="https://github.com/user-attachments/assets/ce0cf9cf-cebe-4de4-bf1a-e86115a0db47" />
+
+<img width="898" height="711" alt="Captura desde 2026-03-04 20-53-20" src="https://github.com/user-attachments/assets/eb0c7fa7-f55f-416a-950f-68a03533401b" />
 
 
 ### 1.d User Journey Map
