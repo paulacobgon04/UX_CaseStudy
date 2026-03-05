@@ -71,7 +71,8 @@ Presentamos dos perfiles de usuario que representan diferentes tipos de personas
 
 <img width="1015" height="778" alt="Captura desde 2026-03-05 16-23-31" src="https://github.com/user-attachments/assets/ed57e160-d4b6-4972-ae59-9994c4c8898e" />
 
-![Uploading Captura desde 2026-03-05 16-23-52.png…]()  
+<img width="1001" height="778" alt="Captura desde 2026-03-05 16-23-52" src="https://github.com/user-attachments/assets/d45179e4-0178-41c5-93b4-5d03c7e8913b" />
+ 
 
 
 
