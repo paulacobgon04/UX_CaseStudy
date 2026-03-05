@@ -68,10 +68,11 @@ Presentamos dos perfiles de usuario que representan diferentes tipos de personas
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+<img width="1015" height="778" alt="Captura desde 2026-03-05 16-23-31" src="https://github.com/user-attachments/assets/ed57e160-d4b6-4972-ae59-9994c4c8898e" />
+
+![Uploading Captura desde 2026-03-05 16-23-52.png…]()  
+
 
 
 ### 1.e Usability Review
