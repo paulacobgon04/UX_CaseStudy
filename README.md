@@ -69,7 +69,12 @@ Presentamos dos perfiles de usuario que representan diferentes tipos de personas
 
 ### 1.d User Journey Map
 
+Diane y Scott exploran las opciones de ocio gastronómico saludable en Granada desde perspectivas diferentes. Para Diane, Osaka Bowl & Roll representa un lugar donde puede disfrutar de comida sostenible con sus amigas después de clase, valorando especialmente las opciones vegetarianas y la posibilidad de conocer el origen de los ingredientes. Sin embargo, la falta de información clara en las webs de algunos restaurantes puede dificultar su decisión antes de visitar el local.
+
+Por otro lado, Scott busca una opción rápida y equilibrada después del gimnasio. Para él es importante encontrar comida saludable de forma sencilla y conocer los ingredientes de lo que consume. Aunque Osaka Bowl & Roll le permite descubrir nuevas opciones gastronómicas, un proceso de pedido poco claro o la falta de información nutricional podría afectar a su experiencia.
+
 <img width="1015" height="778" alt="Captura desde 2026-03-05 16-23-31" src="https://github.com/user-attachments/assets/ed57e160-d4b6-4972-ae59-9994c4c8898e" />
+
 
 <img width="1001" height="778" alt="Captura desde 2026-03-05 16-23-52" src="https://github.com/user-attachments/assets/d45179e4-0178-41c5-93b4-5d03c7e8913b" />
  
