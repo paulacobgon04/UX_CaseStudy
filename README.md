@@ -59,7 +59,17 @@ Para llevar a cabo el estudio, se realizará un análisis de la presencia digita
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo hemos elegido dos restaurantes especializados también en ramen y cocina japonesa:
+
+Ramen Shifu: cadena de restaurantes con presencia en varias ciudades de España. Su propuesta combina la cocina japonesa con una estética muy ligada a la cultura popular japonesa, especialmente al anime y al manga, tanto en la decoración de los locales como en su comunicación visual.
+
+Buga Ramen: restaurante de ramen con una estética moderna y urbana, también muy influenciada por la cultura pop japonesa y referencias al anime, lo que lo hace especialmente atractivo para un público joven.
+
+Hemos elegido estos restaurantes porque comparten un concepto similar al de Utopía Ramen, centrado en el ramen y la cocina japonesa moderna, pero con enfoques estéticos diferentes. Mientras que Ramen Shifu y Buga Ramen se apoyan más en una estética inspirada en el anime y la cultura popular japonesa, Utopía Ramen apuesta por una imagen más tradicional japonesa combinada con algunos elementos modernos.
+
+Centrarse únicamente en un tipo de estética puede ser un punto en contra, ya que puede limitar el público al que se dirige el restaurante. En el caso de Ramen Shifu y Buga Ramen, la fuerte presencia de referencias al anime puede atraer a un público muy concreto, mientras que en Utopía Ramen el enfoque más tradicional también podría reducir su atractivo para otros perfiles de clientes.
+
+Otro aspecto destacable es la falta general de información sobre el origen de los productos y su sostenibilidad. En ninguno de los casos se explica con detalle la procedencia de los ingredientes o las prácticas sostenibles utilizadas. Aunque Utopía Ramen menciona el uso de productos frescos y sostenibles, esta información aparece de forma breve y poco desarrollada, por lo que ampliarla podría convertirse en un elemento diferenciador frente a sus competidores. 
 
 
 ### 1.c Personas
