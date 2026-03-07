@@ -48,7 +48,11 @@ Miembros y nombre del equipo: DIU1_SP
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Para la investigación hemos seleccionado el restaurante Utopía Ramen, una pequeña cadena de cocina japonesa moderna con presencia en Granada y Málaga. El establecimiento combina una estética tradicional japonesa con elementos contemporáneos, como luces de neón y una ambientación inspirada en el estilo cyberpunk, lo que le aporta una imagen fresca y atractiva para un público joven. Además, el restaurante destaca por el uso de productos frescos y auténticos, buscando ofrecer una experiencia gastronómica fiel a la cocina japonesa.
+
+El objetivo principal de la investigación es mejorar la experiencia de los usuarios al interactuar con el negocio, especialmente en aspectos como la búsqueda de información, la exploración de la oferta gastronómica y el proceso de reserva. Asimismo, se pretende analizar posibles mejoras que permitan ampliar la variedad de productos ofertados y aumentar la visibilidad del restaurante, con el fin de atraer a un público más amplio.
+
+Para llevar a cabo el estudio, se realizará un análisis de la presencia digital del restaurante, evaluando la claridad de la información y la facilidad de navegación. También se contemplará la realización de pruebas de usuario con personas que no hayan interactuado previamente con la web o redes del negocio, con el objetivo de identificar posibles problemas de usabilidad. Finalmente, se recogerán opiniones mediante entrevistas o encuestas para detectar oportunidades de mejora y optimizar la experiencia general del usuario.
 
 
 ### 1.b Competitive Analysis
