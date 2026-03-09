@@ -11,8 +11,11 @@ Nombre del Proyecto: Osaka Bowl & Roll
 
 Descripción: 
 
-Nuestra propuesta consiste en el diseño y análisis de una plataforma web orientada a promover el ocio gastronómico sostenible en Granada. Osaka Bowl & Roll se centra en la oferta de bowls y rolls elaborados con ingredientes frescos, saludables y de proximidad (Km 0), fomentando el consumo responsable y el apoyo al comercio local.
-La plataforma permitirá a los usuarios consultar menús, conocer el origen de los ingredientes, localizar puntos de venta y realizar pedidos de forma sencilla. Además, se pretende mejorar la experiencia de usuario mediante una interfaz clara, intuitiva y accesible, facilitando la navegación y el acceso a la información relevante sobre alimentación sostenible y opciones gastronómicas saludables en la ciudad.
+Nuestra propuesta consiste en el diseño y análisis de una plataforma web orientada a promover el ocio gastronómico sostenible en la ciudad de Granada. El proyecto, denominado Osaka Bowl & Roll, corresponde a un restaurante especializado en sushi y ramen que, además de ofrecer servicio en el establecimiento, cuenta con opción de take away para aquellos clientes que deseen disfrutar de sus productos fuera del local.
+
+La propuesta gastronómica se basa en la elaboración de bowls, rolls y otros platos de inspiración japonesa preparados con ingredientes frescos, saludables y de proximidad (Km 0), fomentando así un modelo de consumo responsable y el apoyo al comercio local.
+
+La plataforma web permitirá a los usuarios consultar el menú disponible, conocer el origen de los ingredientes utilizados, localizar el establecimiento y realizar pedidos de forma rápida y sencilla. Asimismo, se pretende mejorar la experiencia del usuario mediante una interfaz clara, intuitiva y accesible, que facilite la navegación y el acceso a información relevante sobre alimentación sostenible y opciones gastronómicas saludables en la ciudad.
 
 Logotipo: 
 
