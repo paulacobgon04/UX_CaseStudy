@@ -87,14 +87,14 @@ Presentamos dos perfiles de usuario que representan diferentes tipos de personas
 
 ### 1.d User Journey Map
 
-Diane y Scott exploran las opciones de ocio gastronómico saludable en Granada desde perspectivas diferentes. Para Diane, Osaka Bowl & Roll representa un lugar donde puede disfrutar de comida sostenible con sus amigas después de clase, valorando especialmente las opciones vegetarianas y la posibilidad de conocer el origen de los ingredientes. Sin embargo, la falta de información clara en las webs de algunos restaurantes puede dificultar su decisión antes de visitar el local.
+Diane y Scott exploran las opciones gastronómicas de comida japonesa en Granada desde perspectivas diferentes. Para Diane, Utopía Ramen representa un lugar donde puede disfrutar de una experiencia gastronómica diferente con sus amigas después de clase, valorando especialmente el ambiente moderno del restaurante y la posibilidad de probar platos japoneses como el ramen. Sin embargo, la falta de información clara sobre algunos platos o ingredientes en las webs de los restaurantes puede dificultar su decisión antes de visitar el local.
 
-Por otro lado, Scott busca una opción rápida y equilibrada después del gimnasio. Para él es importante encontrar comida saludable de forma sencilla y conocer los ingredientes de lo que consume. Aunque Osaka Bowl & Roll le permite descubrir nuevas opciones gastronómicas, un proceso de pedido poco claro o la falta de información nutricional podría afectar a su experiencia.
+Por otro lado, Scott busca un lugar donde comer algo sabroso y reconfortante después del gimnasio. Para él es importante encontrar comida de calidad y poder entender fácilmente el menú antes de pedir. Aunque Utopía Ramen le permite descubrir nuevas opciones de comida japonesa, la falta de explicaciones claras sobre los tipos de ramen o un proceso de pedido poco intuitivo podría afectar a su experiencia.
 
-<img width="1015" height="778" alt="Captura desde 2026-03-05 16-23-31" src="https://github.com/user-attachments/assets/ed57e160-d4b6-4972-ae59-9994c4c8898e" />
+<img width="943" height="719" alt="Captura desde 2026-03-09 18-54-35" src="https://github.com/user-attachments/assets/abab385c-f786-4c27-85f6-38f89328bb13" />
 
 
-<img width="1001" height="778" alt="Captura desde 2026-03-05 16-23-52" src="https://github.com/user-attachments/assets/d45179e4-0178-41c5-93b4-5d03c7e8913b" />
+<img width="943" height="719" alt="Captura desde 2026-03-09 18-54-43" src="https://github.com/user-attachments/assets/50c6387a-fa2b-4590-a886-3991888288b0" />
  
 
 
