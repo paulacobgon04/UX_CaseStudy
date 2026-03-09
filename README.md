@@ -79,9 +79,10 @@ Otro aspecto destacable es la falta general de información sobre el origen de l
 
 Presentamos dos perfiles de usuario que representan diferentes tipos de personas interesadas en el ocio gastronómico sostenible en Granada. Ambos comparten el interés por la alimentación saludable y el consumo responsable, pero desde perspectivas distintas.
 
-<img width="912" height="711" alt="Captura desde 2026-03-04 20-39-48" src="https://github.com/user-attachments/assets/ce0cf9cf-cebe-4de4-bf1a-e86115a0db47" />
+file:///home/sergio/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202026-03-09%2018-23-40.png  
 
-<img width="898" height="711" alt="Captura desde 2026-03-04 20-53-20" src="https://github.com/user-attachments/assets/eb0c7fa7-f55f-416a-950f-68a03533401b" />
+
+file:///home/sergio/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202026-03-09%2018-23-51.png  
 
 
 ### 1.d User Journey Map
