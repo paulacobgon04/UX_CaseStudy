@@ -77,7 +77,7 @@ Otro aspecto destacable es la falta general de información sobre el origen de l
 
 ### 1.c Personas
 
-Presentamos dos perfiles de usuario que representan diferentes tipos de personas interesadas en el ocio gastronómico sostenible en Granada. Ambos comparten el interés por la alimentación saludable y el consumo responsable, pero desde perspectivas distintas.
+Presentamos dos perfiles de usuario que representan diferentes tipos de personas interesadas en descubrir nuevas experiencias gastronómicas en Granada. Ambos comparten el interés por probar comida internacional y visitar restaurantes con una identidad atractiva, aunque desde perspectivas distintas. Diane busca lugares modernos donde disfrutar de la comida japonesa con amigas y compartir la experiencia en redes sociales, mientras que Scott se interesa por encontrar opciones sabrosas y reconfortantes después del trabajo o del gimnasio, valorando especialmente la autenticidad de los platos.
 
 <img width="836" height="652" alt="Captura desde 2026-03-09 18-23-40" src="https://github.com/user-attachments/assets/c5099fbf-8c12-4f61-ba9f-fffa703251d8" />
 
