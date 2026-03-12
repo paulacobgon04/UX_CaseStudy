@@ -61,6 +61,7 @@ Para llevar a cabo el estudio, se realizará un análisis de la presencia digita
 
 Context
 Este proyecto consiste en el diseño de una plataforma web para Osaka Bowl & Roll, un restaurante físico en Granada especializado en sushi y ramen, que también ofrece servicio take away y posibilidad de reservas.
+
 La plataforma permitirá a los usuarios consultar el menú, conocer los ingredientes, realizar pedidos para llevar y reservar mesa en el restaurante.
 
 Hypothesis
@@ -69,7 +70,9 @@ Una web clara y fácil de usar puede mejorar la experiencia del cliente, facilit
 2. Research Goals
 
 Comprender cómo los usuarios buscan restaurantes de sushi y ramen.
+
 Analizar cómo los clientes consultan menús, hacen reservas o pedidos online.
+
 Detectar posibles mejoras en la navegación y accesibilidad de la web.
 
 3. Research Methods
@@ -77,24 +80,31 @@ Detectar posibles mejoras en la navegación y accesibilidad de la web.
 Qualitative
 
 Entrevistas a clientes potenciales.
+
 Observación del comportamiento al consultar menús o reservar mesa.
+
 Test de usabilidad del prototipo.
 
 Quantitative
 
 Encuestas sobre hábitos de consumo de comida asiática.
+
 Análisis de uso de la web.
 
 KPIs
 
 Reservas realizadas desde la web.
+
 Pedidos online (take away).
+
 Tiempo para encontrar información o completar una acción.
 
 4. Research Questions
 
 ¿Qué factores influyen al elegir un restaurante de sushi o ramen?
+
 ¿Qué información esperan encontrar en la web de un restaurante?
+
 ¿Es fácil consultar el menú, reservar mesa o pedir comida?
 
 5. Experience in this field
@@ -102,8 +112,11 @@ Tiempo para encontrar información o completar una acción.
 Designer perspective
 
 Análisis de experiencia de usuario en webs de restauración.
+
 Evaluación de navegación y accesibilidad.
+
 User perspective
+
 Comprender preferencias al elegir restaurante o pedir comida.
 
 6. Participant Recruitment
@@ -111,10 +124,12 @@ Comprender preferencias al elegir restaurante o pedir comida.
 Usuarios objetivo
 
 Estudiantes universitarios.
-Jóvenes que consumen sushi o comida asiática.
-Clientes que realizan pedidos take away.
-Personas que buscan reservar mesa en restaurantes.
 
+Jóvenes que consumen sushi o comida asiática.
+
+Clientes que realizan pedidos take away.
+
+Personas que buscan reservar mesa en restaurantes.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
