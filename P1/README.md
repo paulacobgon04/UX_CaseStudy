@@ -11,7 +11,7 @@
 ### 1.a User Reseach Plan
 -----
 
-[User Research Plan](P1/img/UX Research Plan (Community).png)
+[User Research Plan](P1/img/UX%20Research%20Plan%20%28Community%29.png)
 
 Para la investigación hemos seleccionado el restaurante Utopía Ramen, una pequeña cadena de cocina japonesa moderna con presencia en Granada y Málaga. El establecimiento combina una estética tradicional japonesa con elementos contemporáneos, como luces de neón y una ambientación inspirada en el estilo cyberpunk, lo que le aporta una imagen fresca y atractiva para un público joven. Además, el restaurante destaca por el uso de productos frescos y auténticos, buscando ofrecer una experiencia gastronómica fiel a la cocina japonesa.
 
