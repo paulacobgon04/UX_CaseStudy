@@ -70,9 +70,7 @@ Una web clara y fácil de usar puede mejorar la experiencia del cliente, facilit
 2. Research Goals
 
 Comprender cómo los usuarios buscan restaurantes de sushi y ramen.
-
 Analizar cómo los clientes consultan menús, hacen reservas o pedidos online.
-
 Detectar posibles mejoras en la navegación y accesibilidad de la web.
 
 3. Research Methods
