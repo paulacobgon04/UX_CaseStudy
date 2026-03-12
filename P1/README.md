@@ -64,7 +64,9 @@ Por otro lado, Scott busca un lugar donde comer algo sabroso y reconfortante des
 ### 1.e Usability Review
 
 [Ver Usability Review PDF](img/Usability-review.pdf)
-[Ver Usability Review Excel](
+
+[Ver Usability Review Excel](img/Usability-review.xlsx)
+
 En cuanto a la estética, la página web de Utopía Ramen presenta un diseño visual atractivo que encaja con la identidad del restaurante. El uso de imágenes de los platos y del local ayuda a transmitir la experiencia gastronómica que ofrece el establecimiento y resulta llamativo para los usuarios que visitan la página por primera vez. Además, el estilo visual y la ambientación del sitio reflejan adecuadamente la temática japonesa moderna del restaurante.
 
 Sin embargo, desde el punto de vista de la usabilidad, la página presenta algunos aspectos que podrían mejorarse. En algunos casos la navegación no resulta completamente intuitiva, lo que puede dificultar encontrar rápidamente información importante como el menú o los detalles del restaurante. También se observa que algunos enlaces o secciones no están claramente descritos, lo que puede generar cierta confusión en los usuarios.
