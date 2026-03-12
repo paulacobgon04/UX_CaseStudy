@@ -97,15 +97,14 @@ Por otro lado, Scott busca un lugar donde comer algo sabroso y reconfortante des
 
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+En cuanto a la estética, la página web de Utopía Ramen presenta un diseño visual atractivo que encaja con la identidad del restaurante. El uso de imágenes de los platos y del local ayuda a transmitir la experiencia gastronómica que ofrece el establecimiento y resulta llamativo para los usuarios que visitan la página por primera vez. Además, el estilo visual y la ambientación del sitio reflejan adecuadamente la temática japonesa moderna del restaurante.
 
-<br>
+Sin embargo, desde el punto de vista de la usabilidad, la página presenta algunos aspectos que podrían mejorarse. En algunos casos la navegación no resulta completamente intuitiva, lo que puede dificultar encontrar rápidamente información importante como el menú o los detalles del restaurante. También se observa que algunos enlaces o secciones no están claramente descritos, lo que puede generar cierta confusión en los usuarios.
+
+Otro aspecto a mejorar es la falta de funcionalidades de apoyo al usuario, como un sistema de búsqueda interna o una sección de ayuda. Esto puede hacer que los usuarios tengan que recorrer varias secciones para encontrar la información que necesitan. Además, algunos contenidos podrían explicarse de forma más clara, especialmente en el caso de los platos del menú, donde incluir descripciones más detalladas ayudaría a los usuarios que no estén familiarizados con la cocina japonesa.
+
+En general, la web cumple su función principal de presentar el restaurante y mostrar información básica a los usuarios, pero mejorar la estructura de navegación, la claridad de algunos contenidos y la orientación al usuario podría contribuir a ofrecer una experiencia más sencilla e intuitiva.
 
 ## Paso 2. UX Design  
 
