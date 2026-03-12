@@ -22,7 +22,8 @@ Para llevar a cabo el estudio, se realizará un análisis de la presencia digita
 
 ### 1.b Competitive Analysis
 -----
-[Análisis competitivo](img/Competitor%20Analysis%20DIU1.png))
+[Análisis competitivo](img/Competitor%20Analysis%20DIU1.png)
+
 Para el análisis competitivo hemos elegido dos restaurantes especializados también en ramen y cocina japonesa:
 
 Ramen Shifu: cadena de restaurantes con presencia en varias ciudades de España. Su propuesta combina la cocina japonesa con una estética muy ligada a la cultura popular japonesa, especialmente al anime y al manga, tanto en la decoración de los locales como en su comunicación visual.
