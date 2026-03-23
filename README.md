@@ -128,6 +128,13 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 <img width="1309" height="692" alt="Captura desde 2026-03-23 16-17-07" src="https://github.com/user-attachments/assets/79075e17-8bbe-4d4d-9043-4408e6ac0ec7" />
 
+
+### 2.b User Flow (task) analysis 
+
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
+
+<img width="695" height="475" alt="Captura desde 2026-03-23 18-37-05" src="https://github.com/user-attachments/assets/6951e2ef-6ec2-4e8c-878f-46a07fa1d176" />
+
 Y mostramos el flujo de tres tareas que consideramos más importantes:
 
 ## **Flujo Consultar Menú**
@@ -143,13 +150,6 @@ Y mostramos el flujo de tres tareas que consideramos más importantes:
 ## **Flujo Buscar información del restaurante**
 
 <img width="491" height="861" alt="Captura desde 2026-03-23 18-24-50" src="https://github.com/user-attachments/assets/19c9f24a-6e06-41ec-a9ea-ea10f3f3ab78" />
-
-
-### 2.b User Flow (task) analysis 
-
-En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
-
-<img width="695" height="475" alt="Captura desde 2026-03-23 18-37-05" src="https://github.com/user-attachments/assets/6951e2ef-6ec2-4e8c-878f-46a07fa1d176" />
 
 
 
