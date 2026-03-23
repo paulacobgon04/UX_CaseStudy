@@ -130,17 +130,17 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 Y mostramos el flujo de tres tareas que consideramos más importantes:
 
-Flujo Consultar Menú
+##**Flujo Consultar Menú**
 
 <img width="491" height="879" alt="Captura desde 2026-03-23 18-24-39" src="https://github.com/user-attachments/assets/32ce3620-98d7-4e9e-b40d-8a80a055fde0" />
 
 
-Flujo Realizar pedido
+##**Flujo Realizar pedido**
 
 <img width="265" height="762" alt="Captura desde 2026-03-23 18-25-17" src="https://github.com/user-attachments/assets/455bbff1-1be6-491a-a757-cfc48d909047" />
 
 
-Flujo Buscar información del restaurante
+##**Flujo Buscar información del restaurante**
 
 <img width="491" height="861" alt="Captura desde 2026-03-23 18-24-50" src="https://github.com/user-attachments/assets/19c9f24a-6e06-41ec-a9ea-ea10f3f3ab78" />
 
