@@ -108,8 +108,6 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
@@ -127,12 +125,8 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
-----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+<img width="1309" height="692" alt="Captura desde 2026-03-23 16-17-07" src="https://github.com/user-attachments/assets/79075e17-8bbe-4d4d-9043-4408e6ac0ec7" />
 
 
 ### 2.b User Flow (task) analysis 
