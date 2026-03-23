@@ -130,10 +130,11 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 
 ### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En nuestra matriz de tareas de usuario, hemos recopilado las funciones de nuestra web y como de relevante serian para cada tipo de usuario, hemos añadido tres tipos de usuarios, dando las prioridades de alta(H), media(M) y baja(L): 
+
+<img width="695" height="475" alt="Captura desde 2026-03-23 18-37-05" src="https://github.com/user-attachments/assets/6951e2ef-6ec2-4e8c-878f-46a07fa1d176" />
+
 
 
 ### 2.c IA: Sitemap + Labelling 
