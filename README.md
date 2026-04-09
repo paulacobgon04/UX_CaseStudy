@@ -174,7 +174,6 @@ En este apartado hemos diseñado la arquitectura de la información de la web de
 <img width="1280" height="869" alt="Captura desde 2026-04-09 19-08-25" src="https://github.com/user-attachments/assets/8cc8a5ca-2e43-4302-b693-4bb2d5615f43" />
 
 
-
 <img width="841" height="742" alt="Captura desde 2026-04-09 19-30-31" src="https://github.com/user-attachments/assets/da6a7c98-3ff1-483e-9361-401b3feb544a" />
 
 
