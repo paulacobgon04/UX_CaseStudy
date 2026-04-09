@@ -168,14 +168,11 @@ Y mostramos el flujo de tres tareas que consideramos más importantes:
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+En este apartado hemos diseñado la arquitectura de la información de la web de Osaka Bowl & Roll.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+<img width="1280" height="869" alt="Captura desde 2026-04-09 19-08-25" src="https://github.com/user-attachments/assets/8cc8a5ca-2e43-4302-b693-4bb2d5615f43" />
+
 
 
 ### 2.d Wireframes
