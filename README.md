@@ -112,6 +112,8 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
+![Empathy Customer Map](UX_CaseStudy/P2/Empathy%20Customer%20Map%20[DIU23]%20(Copia).png)
+
 El análisis de la experiencia de usuario ha puesto de manifiesto varias carencias en las webs de los restaurantes analizados, como la escasa información sobre el origen de los productos, la falta de detalle en aspectos de sostenibilidad y una diferenciación limitada entre las propuestas más allá de la estética. Además, muchas de estas plataformas están excesivamente centradas en un único estilo visual (como la estética anime o urbana), lo que puede reducir su atractivo para un público más amplio.
 
 Estos problemas afectan tanto a usuarios locales como a turistas, que buscan no solo una experiencia visual atractiva, sino también información clara y confianza en la calidad y procedencia de los productos. La falta de transparencia y de contenido relevante dificulta la toma de decisiones y limita el valor percibido del restaurante.
@@ -127,15 +129,6 @@ Mejora del sistema de reservas y acceso a la información
 Refuerzo de la imagen de marca basada en autenticidad
 
 Con estas mejoras, se espera no solo optimizar la experiencia del usuario, sino también aumentar la confianza, la fidelización y el alcance del restaurante frente a sus competidores.
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
 
 ### 2.b ScopeCanvas
