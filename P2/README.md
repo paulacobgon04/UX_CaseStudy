@@ -3,12 +3,11 @@
 ## Paso 2. UX Design  
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
 
+El análisis de la experiencia de usuario ha puesto de manifiesto varias carencias en las webs de los restaurantes analizados, como la escasa información sobre el origen de los productos, la falta de detalle en aspectos de sostenibilidad y una diferenciación limitada entre las propuestas más allá de la estética. Además, muchas de estas plataformas están excesivamente centradas en un único estilo visual (como la estética anime o urbana), lo que puede reducir su atractivo para un público más amplio.
 
 ----<img width="3952" height="3806" alt="empathy_map" src="https://github.com/user-attachments/assets/f65cccb1-2817-44b7-87ac-03d004d12e2f" />
 
-El análisis de la experiencia de usuario ha puesto de manifiesto varias carencias en las webs de los restaurantes analizados, como la escasa información sobre el origen de los productos, la falta de detalle en aspectos de sostenibilidad y una diferenciación limitada entre las propuestas más allá de la estética. Además, muchas de estas plataformas están excesivamente centradas en un único estilo visual (como la estética anime o urbana), lo que puede reducir su atractivo para un público más amplio.
 
 Estos problemas afectan tanto a usuarios locales como a turistas, que buscan no solo una experiencia visual atractiva, sino también información clara y confianza en la calidad y procedencia de los productos. La falta de transparencia y de contenido relevante dificulta la toma de decisiones y limita el valor percibido del restaurante.
 
@@ -66,9 +65,10 @@ En este apartado hemos diseñado la arquitectura de la información de la web de
 
 
 ### 2.d Wireframes
-![Método UX](img/Wireframes.png) 
+
 
 Para la elaboración de los wireframes, se ha desarrollado un primer diseño en baja fidelidad (low-fi) a partir de bocetos iniciales realizados a mano. Posteriormente, estos se digitalizaron utilizando la herramienta Figma, con el objetivo de visualizar de forma más precisa la estructura y apariencia de la futura página web. En esta fase, se han diseñado las principales secciones del sitio: la página de inicio, la vista de la carta, la página de reservas y el carrito correspondiente a los pedidos a domicilio.
+
 <img width="868" height="562" alt="principal" src="https://github.com/user-attachments/assets/709dc760-f9f8-4ade-9d32-b788175727c6" />
 <img width="868" height="562" alt="carta" src="https://github.com/user-attachments/assets/61abe6e5-1fcf-4695-94ab-2cdba1349c46" />
 <img width="868" height="562" alt="reserva" src="https://github.com/user-attachments/assets/97759caf-b95e-438d-ac9d-c539c1878272" />
