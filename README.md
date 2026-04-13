@@ -112,7 +112,6 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-![Empathy Customer Map](UX_CaseStudy/P2/Empathy%20Customer%20Map%20[DIU23]%20(Copia).png)
 
 El análisis de la experiencia de usuario ha puesto de manifiesto varias carencias en las webs de los restaurantes analizados, como la escasa información sobre el origen de los productos, la falta de detalle en aspectos de sostenibilidad y una diferenciación limitada entre las propuestas más allá de la estética. Además, muchas de estas plataformas están excesivamente centradas en un único estilo visual (como la estética anime o urbana), lo que puede reducir su atractivo para un público más amplio.
 
