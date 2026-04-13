@@ -175,10 +175,10 @@ En este apartado hemos diseñado la arquitectura de la información de la web de
 ![Método UX](img/Wireframes.png) 
 
 Para la elaboración de los wireframes, se ha desarrollado un primer diseño en baja fidelidad (low-fi) a partir de bocetos iniciales realizados a mano. Posteriormente, estos se digitalizaron utilizando la herramienta Figma, con el objetivo de visualizar de forma más precisa la estructura y apariencia de la futura página web. En esta fase, se han diseñado las principales secciones del sitio: la página de inicio, la vista de la carta, la página de reservas y el carrito correspondiente a los pedidos a domicilio.
-<img width="1736" height="1125" alt="principal" src="https://github.com/user-attachments/assets/709dc760-f9f8-4ade-9d32-b788175727c6" />
-<img width="1736" height="1125" alt="carta" src="https://github.com/user-attachments/assets/61abe6e5-1fcf-4695-94ab-2cdba1349c46" />
-<img width="1736" height="1125" alt="reserva" src="https://github.com/user-attachments/assets/97759caf-b95e-438d-ac9d-c539c1878272" />
-<img width="1736" height="1125" alt="pedido" src="https://github.com/user-attachments/assets/90765bbd-fe08-486c-863d-80adedfe4af3" />
+<img width="868" height="562" alt="principal" src="https://github.com/user-attachments/assets/709dc760-f9f8-4ade-9d32-b788175727c6" />
+<img width="868" height="562" alt="carta" src="https://github.com/user-attachments/assets/61abe6e5-1fcf-4695-94ab-2cdba1349c46" />
+<img width="868" height="562" alt="reserva" src="https://github.com/user-attachments/assets/97759caf-b95e-438d-ac9d-c539c1878272" />
+<img width="868" height="562" alt="pedido" src="https://github.com/user-attachments/assets/90765bbd-fe08-486c-863d-80adedfe4af3" />
 
 Versión de móvil:
 
