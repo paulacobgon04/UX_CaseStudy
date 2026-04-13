@@ -110,8 +110,9 @@ En general, la web cumple su función principal de presentar el restaurante y mo
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
-----
 
+
+----<img width="3952" height="3806" alt="empathy_map" src="https://github.com/user-attachments/assets/f65cccb1-2817-44b7-87ac-03d004d12e2f" />
 
 El análisis de la experiencia de usuario ha puesto de manifiesto varias carencias en las webs de los restaurantes analizados, como la escasa información sobre el origen de los productos, la falta de detalle en aspectos de sostenibilidad y una diferenciación limitada entre las propuestas más allá de la estética. Además, muchas de estas plataformas están excesivamente centradas en un único estilo visual (como la estética anime o urbana), lo que puede reducir su atractivo para un público más amplio.
 
