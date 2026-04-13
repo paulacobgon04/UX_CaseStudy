@@ -183,8 +183,8 @@ Para la elaboración de los wireframes, se ha desarrollado un primer diseño en 
 Versión de móvil:
 
 <img width="191" height="375" alt="movil 2" src="https://github.com/user-attachments/assets/e5cc01ae-25f8-463d-8f78-de6b55d3413a" />
-<img width="191" height="375" alt="movil 1" src="https://github.com/user-attachments/assets/2ed3ea6e-3c9b-48a2-a988-3c93a8199e6f" />
-<img width="191" height="375" alt="movil 3" src="https://github.com/user-attachments/assets/026a995b-ba83-4069-b79c-cf56ae7e301f" />
+<img width="191" height="375" alt="movil 1" src="https://github.com/user-attachments/assets/15105058-986d-4387-944a-b70d77e572a4" />
+<img width="191" height="375" alt="movil 3" src="https://github.com/user-attachments/assets/f0b0ed58-1011-4ad5-af34-08939eac95f4" />
 <img width="191" height="375" alt="movil 4" src="https://github.com/user-attachments/assets/a971ef9a-2509-49af-9728-444235fa3f96" />
 
 <br>
