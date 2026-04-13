@@ -173,9 +173,19 @@ En este apartado hemos diseñado la arquitectura de la información de la web de
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
------
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Para la elaboración de los wireframes, se ha desarrollado un primer diseño en baja fidelidad (low-fi) a partir de bocetos iniciales realizados a mano. Posteriormente, estos se digitalizaron utilizando la herramienta Figma, con el objetivo de visualizar de forma más precisa la estructura y apariencia de la futura página web. En esta fase, se han diseñado las principales secciones del sitio: la página de inicio, la vista de la carta, la página de reservas y el carrito correspondiente a los pedidos a domicilio.
+<img width="1736" height="1125" alt="principal" src="https://github.com/user-attachments/assets/709dc760-f9f8-4ade-9d32-b788175727c6" />
+<img width="1736" height="1125" alt="carta" src="https://github.com/user-attachments/assets/61abe6e5-1fcf-4695-94ab-2cdba1349c46" />
+<img width="1736" height="1125" alt="reserva" src="https://github.com/user-attachments/assets/97759caf-b95e-438d-ac9d-c539c1878272" />
+<img width="1736" height="1125" alt="pedido" src="https://github.com/user-attachments/assets/90765bbd-fe08-486c-863d-80adedfe4af3" />
+
+Versión de móvil:
+
+<img width="573" height="1125" alt="movil 2" src="https://github.com/user-attachments/assets/e5cc01ae-25f8-463d-8f78-de6b55d3413a" />
+<img width="573" height="1125" alt="movil 1" src="https://github.com/user-attachments/assets/2ed3ea6e-3c9b-48a2-a988-3c93a8199e6f" />
+<img width="573" height="1125" alt="movil 3" src="https://github.com/user-attachments/assets/026a995b-ba83-4069-b79c-cf56ae7e301f" />
+<img width="573" height="1125" alt="movil 4" src="https://github.com/user-attachments/assets/a971ef9a-2509-49af-9728-444235fa3f96" />
 
 <br>
 
