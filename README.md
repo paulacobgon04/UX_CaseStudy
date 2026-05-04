@@ -1,4 +1,3 @@
-<img width="1191" height="886" alt="Captura desde 2026-05-04 16-30-15" src="https://github.com/user-attachments/assets/3b85aed9-aaa1-4655-b09d-db9db20dee47" />
 Prácticas Diseño Interfaces de Usuario (Tema: Sabores con encanto ) 
 
 Actualizado: 04/03/2026
