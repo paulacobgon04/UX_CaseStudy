@@ -1,4 +1,4 @@
-
+<img width="1191" height="886" alt="Captura desde 2026-05-04 16-30-15" src="https://github.com/user-attachments/assets/3b85aed9-aaa1-4655-b09d-db9db20dee47" />
 Prácticas Diseño Interfaces de Usuario (Tema: Sabores con encanto ) 
 
 Actualizado: 04/03/2026
@@ -195,12 +195,11 @@ Versión de móvil:
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Hemos creado un moodboard que muestra nuestras ideas para rediseñar el estilo visual de la empresa Osaka Bowl & Roll.
+
+<img width="1191" height="886" alt="Captura desde 2026-05-04 16-30-15" src="https://github.com/user-attachments/assets/5763718b-7eb1-4e06-8226-cda1340d0e4e" />
+
 
 
 ### 3.b Landing Page
