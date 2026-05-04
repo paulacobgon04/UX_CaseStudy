@@ -201,10 +201,11 @@ Hemos creado un moodboard que muestra nuestras ideas para rediseñar el estilo v
 
 
 ### 3.b Landing Page
-![Método UX](img/landing-page.png) 
-----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Nuestra landing page ofrece información sobre el proyecto, todo con un diseño claro y visual para que atraer a el publico que no se vayan rapido, sino que se interesen.
+
+<img width="808" height="808" alt="Captura desde 2026-05-04 18-19-27" src="https://github.com/user-attachments/assets/f4498257-da68-4af0-b2ec-d23ca1c4380d" />
+
 
 
 ### 3.c Guidelines
