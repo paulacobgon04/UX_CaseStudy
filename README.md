@@ -225,6 +225,10 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 9–10 — Espaciado, grid y tono de marca — Sistema de 8px base para márgenes y espaciados, y los cuatro valores de marca que deberían reflejarse en todos los textos de la plataforma.
 
+![Guidelines 1](P3/img/guidelines1.png)
+![Guidelines 2](P3/img/guidelines2.png)
+![Guidelines 3](P3/img/guidelines3.png)
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
