@@ -233,6 +233,7 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+[Layout Figma](https://duck-custom-29081229.figma.site)
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
