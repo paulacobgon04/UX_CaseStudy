@@ -258,7 +258,14 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 ### 4.b Diseño de las pruebas 
 
-
+| # | Tipo de prueba (Maze) | Caso A – Moda Re- | Caso B – La Tertulia | Métrica principal |
+|---|----------------------|-------------------|----------------------|-------------------|
+| 1 | Mis-click Test | Pulsar CTA «Crear Punto» | Pulsar CTA «Reservar» | % primer clic correcto |
+| 2 | Tarea guiada | Crear un punto de recogida con fecha y plazas | Reservar 2 plazas para la tertulia de poesía del jueves | Tiempo (s) + nº clics |
+| 3 | Tarea guiada | Buscar puntos de recogida en el mapa | Consultar agenda de eventos de la semana | Tiempo (s) + % éxito |
+| 4 | Tarea guiada | Apuntarse a una donación existente | Pagar entrada (simulación) de un concierto del sábado | % éxito |
+| 5 | Cuestionario SUS | → ambos casos | → ambos casos | Puntuación 0-100 |
+| 6 | Eye-tracking | — (no se aplica) | varias pantallas | TTFF + %AOI |
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
