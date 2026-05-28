@@ -241,9 +241,9 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 ### 4.a Reclutamiento de usuarios 
 
-Nos ha tocado el grupo DIU2.tertulianos que correspondera con la prueba B y nuestro proyecto con el A, sobre moda Re-.
+Nos ha tocado el grupo DIU2.Juashani que correspondera con la prueba B y nuestro proyecto con el A, sobre Osaka Bowl & Roll.
 
-Enlace a u repositorio: https://github.com/DIU2tertulianos
+Enlace a su repositorio: https://github.com/diana7373/UX_CaseStudy
 
 En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
