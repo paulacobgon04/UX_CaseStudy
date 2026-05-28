@@ -299,7 +299,14 @@ Se describen las pruebas seleccionadas para la evaluación de los prototipos, ad
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+| Prueba | Caso A – Osaka Bowl & Roll | Caso B – Remake Champions Burger |
+|--------|---------------------------|-----------------------------------|
+| 1 – Mis-click Test (% primer clic correcto) | 80% (4/5 usuarios aciertan a la primera) | 60% (3/5 usuarios aciertan a la primera) |
+| 2 – Tarea guiada: pedido / filtrar carta (Tiempo + nº clics) | avg. 52s · 6 clics · 100% éxito | avg. 1m 18s · 9 clics · 80% éxito |
+| 3 – Tarea guiada: encontrar info / ubicación (Tiempo + % éxito) | avg. 38s · 100% éxito | avg. 1m 05s · 60% éxito |
+| **Resultado agregado** | **✅ Más usable** | ⚠️ Mejorable |
+
+Conclusión: El Caso A (Osaka Bowl & Roll) es más usable. Obtiene mejores resultados en las tres pruebas: mayor tasa de acierto en el mis-click test, tiempos más bajos y porcentaje de éxito del 100% en las tareas guiadas. El Caso B muestra mayor dificultad especialmente en la localización de información de contacto y en el flujo de filtrado, donde los usuarios con baja Exp.TIC (Tomás, Remedios) no completaron la tarea sin ayuda. Esto es coherente con las puntuaciones SUS obtenidas, donde el Caso A alcanza una media de 89 (Excellent) frente al 74 (Good) del Caso B.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
