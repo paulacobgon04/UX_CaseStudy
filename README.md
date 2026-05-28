@@ -248,12 +248,18 @@ Enlace a u repositorio: https://github.com/DIU2tertulianos
 En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Alberto  | H / 23   | Estudiante  | Media       | Introvertido | Web.       | A 
-| Manu  | H / 23   | Estudiante  | Alta       | Timido       | Web        | A 
-| Yaiza  | M / 21   | Estudiante     | Media        | Emocional    | móvil      | B 
-| Minerva  | H / 20   | Estudiante  | Baja       | Racional     | Web        | B 
+| Usuarios  | Sexo/Edad | Ocupación          | Exp.TIC | Personalidad  | Plataforma | Caso |
+|-----------|-----------|--------------------|---------|---------------|------------|------|
+| Alberto   | H / 23    | Estudiante         | Media   | Introvertido  | Web        | A    |
+| Manu      | H / 23    | Estudiante         | Alta    | Tímido        | Web        | A    |
+| Yaiza     | M / 21    | Estudiante         | Media   | Emocional     | Móvil      | B    |
+| Lucía     | M / 19    | Estudiante         | Alta    | Extrovertida  | Móvil      | A    |
+| Darío     | H / 22    | Camarero           | Media   | Impulsivo     | Web        | B    |
+| Sofía     | M / 25    | Diseñadora         | Alta    | Curiosa       | Web        | A    |
+| Marcos    | H / 27    | Técnico informático| Alta    | Racional      | Web        | B    |
+| Inés      | M / 31    | Fisioterapeuta     | Media   | Empática      | Móvil      | A    |
+| Tomás     | H / 45    | Administrativo     | Baja    | Metódico      | Web        | B    |
+| Remedios  | M / 58    | Ama de casa        | Baja    | Desconfiada   | Móvil      | B    |
 
 
 ### 4.b Diseño de las pruebas 
