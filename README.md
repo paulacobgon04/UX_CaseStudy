@@ -250,17 +250,13 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alberto  | H / 23   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Manu  | H / 23   | Estudiante  | Alta       | Timido       | Web        | A 
+| Yaiza  | M / 21   | Estudiante     | Media        | Emocional    | móvil      | B 
+| Minerva  | H / 20   | Estudiante  | Baja       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
-
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
 
 
