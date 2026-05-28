@@ -309,27 +309,40 @@ Se describen las pruebas seleccionadas para la evaluación de los prototipos, ad
 Conclusión: El Caso A (Osaka Bowl & Roll) es más usable. Obtiene mejores resultados en las tres pruebas: mayor tasa de acierto en el mis-click test, tiempos más bajos y porcentaje de éxito del 100% en las tareas guiadas. El Caso B muestra mayor dificultad especialmente en la localización de información de contacto y en el flujo de filtrado, donde los usuarios con baja Exp.TIC (Tomás, Remedios) no completaron la tarea sin ayuda. Esto es coherente con las puntuaciones SUS obtenidas, donde el Caso A alcanza una media de 89 (Excellent) frente al 74 (Good) del Caso B.
 
 ### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Se analiza el recorrido visual de los usuarios mediante mapas de calor. El objetivo es detectar problemas de visibilidad, jerarquía visual y localización de acciones principales dentro de la interfaz del Caso B (Clenchaos).
 
+* Herramienta: GazeRecorder (Free) — 5 usuarios
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+| AOI                         | TTTF (s) | % Usuarios que la vieron |
+| --------------------------- | -------- | ------------------------ |
+| Botón principal «Reservar»  | 2,4      | 67 %                     |
+| Menú de navegación superior | 1,2      | 100 %                    |
+| Apartado de contacto        | 4,8      | 33 %                     |
+| Inicio de sesión            | 1,5      | 100 %                    |
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Los resultados muestran que los elementos principales de navegación son detectados rápidamente por la mayoría de usuarios. Sin embargo, ciertas acciones importantes como el acceso al contacto o algunos botones secundarios pasan desapercibidos debido a problemas de jerarquía visual y posicionamiento dentro de la interfaz.
+
+Además, durante las pruebas se observó que algunos usuarios dirigían inicialmente la mirada hacia imágenes decorativas antes que hacia los CTA principales, lo que indica que ciertos elementos visuales tienen demasiado peso frente a las acciones prioritarias del sistema.
+
 
 
 ### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+El informe final de usabilidad sobre la aplicación del grupo compañero resume los principales problemas detectados durante las pruebas de usuario, el análisis Eye Tracking y los resultados obtenidos mediante el cuestionario SUS.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+| Severidad | Hallazgo                                 | Evidencia                                           | Recomendación                                           |
+| --------- | ---------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| Alta      | CTA «Reservar» con poca visibilidad      | TTTF 2,4 s ; 33 % de usuarios tardan en localizarlo | Aumentar tamaño y utilizar color primario más llamativo |
+| Alta      | Apartado de contacto poco accesible      | 67 % no lo encuentran fácilmente                    | Reubicar acceso en menú principal o footer visible      |
+| Media     | Flujo de reserva con demasiados pasos    | Usuarios necesitan ayuda durante navegación         | Simplificar flujo y reducir número de clics             |
+| Baja      | Exceso de elementos visuales decorativos | Eye Tracking muestra distracción visual             | Reducir protagonismo de imágenes secundarias            |
 
+Clenchaos presenta una propuesta visual moderna y atractiva, aunque durante las pruebas se detectaron ciertos problemas relacionados con la jerarquía visual y la localización de acciones importantes dentro de la interfaz.
+
+Las principales dificultades encontradas están relacionadas con la visibilidad de algunos botones clave y la cantidad de elementos visuales presentes en determinadas pantallas, lo que puede generar distracciones durante la navegación.
+
+La mejora de la jerarquía visual, la simplificación de ciertos flujos y una distribución más clara de los elementos interactivos podrían aumentar significativamente la eficiencia de uso y mejorar la experiencia general del usuario.
 
 
 <br>
