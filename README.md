@@ -311,21 +311,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ### 5.a Exportación a HTML/React
 ![Método UX](img/usabilityReview.png) 
-----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+Tras completar todo el proceso de diseño UX — desde la investigación inicial y el análisis 
+competitivo hasta la construcción del sistema de diseño y las pruebas de evaluación — el 
+resultado final del proyecto Osaka Bowl & Roll se ha exportado a formato web. A continuación 
+puedes explorar la versión HTML del case study completo.
 
+[Layout Figma](https://duck-custom-29081229.figma.site)
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
-
-## Conclusiones finales & Valoración de las prácticas
 
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
