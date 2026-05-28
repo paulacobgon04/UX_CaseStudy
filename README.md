@@ -279,11 +279,20 @@ Se describen las pruebas seleccionadas para la evaluación de los prototipos, ad
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
-
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+| # | Ítem SUS | Alberto (A) | Manu (A) | Lucía (A) | Sofía (A) | Inés (A) | Yaiza (B) | Darío (B) | Marcos (B) | Tomás (B) | Remedios (B) |
+|---|----------|:-----------:|:--------:|:---------:|:---------:|:--------:|:---------:|:---------:|:----------:|:---------:|:------------:|
+| 1 | Creo que me gustará visitar con frecuencia este website | 4 | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 3 |
+| 2 | Encontré el website innecesariamente complejo | 2 | 1 | 2 | 1 | 2 | 2 | 2 | 1 | 3 | 3 |
+| 3 | Pensé que era fácil utilizar este website | 4 | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 3 |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | 2 | 1 | 1 | 1 | 2 | 2 | 2 | 1 | 3 | 3 |
+| 5 | Encontré las funciones del website bastante bien integradas | 4 | 5 | 4 | 5 | 4 | 4 | 4 | 5 | 3 | 3 |
+| 6 | Pensé que había demasiada inconsistencia en el website | 2 | 1 | 2 | 1 | 2 | 2 | 2 | 1 | 3 | 3 |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 4 | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 3 |
+| 8 | Encontré el website muy grande al recorrerlo | 2 | 1 | 2 | 1 | 3 | 2 | 3 | 1 | 3 | 3 |
+| 9 | Me sentí muy confiado en el manejo del website | 4 | 5 | 5 | 5 | 4 | 4 | 4 | 5 | 3 | 3 |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website | 2 | 1 | 1 | 1 | 2 | 2 | 2 | 1 | 3 | 3 |
+| | **Puntuación SUS** | **80** | **97,5** | **92,5** | **97,5** | **77,5** | **80** | **77,5** | **97,5** | **57,5** | **57,5** |
+| | **Etiqueta** | Good | Best Imaginable | Excellent | Best Imaginable | Good | Good | Good | Best Imaginable | OK | OK |
 
 
 ### 4.d A/B Testing
