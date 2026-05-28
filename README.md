@@ -240,12 +240,12 @@ Nuestra landing page ofrece información sobre el proyecto, todo con un diseño 
 ## Paso 4. Pruebas de Evaluación 
 
 ### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Nos ha tocado el grupo DIU2.tertulianos que correspondera con la prueba B y nuestro proyecto con el A, sobre moda Re-.
 
+Enlace a u repositorio: https://github.com/DIU2tertulianos
+
+En este apartado se identifican los usuarios participantes en las pruebas, incluyendo su perfil con valores diferentes para una aproximacion mas exacta y el caso (A o B) que evaluaron.
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
