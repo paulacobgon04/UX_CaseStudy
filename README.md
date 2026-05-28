@@ -264,12 +264,12 @@ En este apartado se identifican los usuarios participantes en las pruebas, inclu
 
 ### 4.b Diseño de las pruebas 
 
-| # | Tipo de prueba (Maze) | Caso A – Osaka Bowl & Roll | Caso B – Hamburguesería Gourmet | Métrica principal |
-|---|----------------------|---------------------------|----------------------------------|-------------------|
-| 1 | Mis-click Test | Pulsar CTA «Pedir ahora» | Pulsar CTA «Personalizar burger» | % primer clic correcto |
-| 2 | Tarea guiada | Realizar un pedido take away de 2 platos | Crear y pedir una hamburguesa personalizada | Tiempo (s) + nº clics |
-| 3 | Tarea guiada | Consultar el menú y encontrar un plato sin gluten | Buscar una hamburguesa del menú clásico | Tiempo (s) + % éxito |
-| 4 | Tarea guiada | Localizar dirección y horario del restaurante | Localizar dirección y horario del restaurante | % éxito |
+| # | Tipo de prueba (Maze) | Caso A – Osaka Bowl & Roll | Caso B – Remake Champions Burger | Métrica principal |
+|---|----------------------|---------------------------|-----------------------------------|-------------------|
+| 1 | Mis-click Test | Pulsar CTA «Pedir ahora» | Pulsar CTA «Ver carta» | % primer clic correcto |
+| 2 | Tarea guiada | Realizar un pedido take away de 2 platos | Filtrar hamburguesas sin gluten y añadir una al carrito | Tiempo (s) + nº clics |
+| 3 | Tarea guiada | Consultar el menú y encontrar un plato concreto | Localizar un foodtruck en el mapa interactivo y ver su tiempo de cola | Tiempo (s) + % éxito |
+| 4 | Tarea guiada | Hacer una reserva para 2 personas | Reservar mesa para 3 personas y obtener el QR de confirmación | % éxito |
 | 5 | Cuestionario SUS | → ambos casos | → ambos casos | Puntuación 0-100 |
 | 6 | Eye-tracking | — (no se aplica) | varias pantallas | TTFF + %AOI |
 
