@@ -1,12 +1,11 @@
 ## Practica 5: Exportación + Documentación - entregables 
 
+### 5.a Exportación a HTML/React
+![Método UX](img/usabilityReview.png) 
 
-- Exportación a HTML/React
-- Documentación con Storybook
-- Autoevaluacion del diseño 
-Puntos fuertes y de mejora relativos a los criterios de accesibilidad de tu diseño
-- Conclusiones
+Tras completar todo el proceso de diseño UX — desde la investigación inicial y el análisis 
+competitivo hasta la construcción del sistema de diseño y las pruebas de evaluación — el 
+resultado final del proyecto Osaka Bowl & Roll se ha exportado a formato web. A continuación 
+puedes explorar la versión HTML del case study completo.
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+[Layout Figma](https://duck-custom-29081229.figma.site)
