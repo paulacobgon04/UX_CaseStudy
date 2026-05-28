@@ -269,10 +269,10 @@ Se describen las pruebas seleccionadas para la evaluación de los prototipos, ad
 
 | # | Tipo de prueba (Maze) | Caso A – Osaka Bowl & Roll | Caso B – Remake Champions Burger | Métrica principal |
 |---|----------------------|---------------------------|-----------------------------------|-------------------|
-| 1 | Mis-click Test | Pulsar CTA «Pedir ahora» | Pulsar CTA «Ver carta» | % primer clic correcto |
+| 1 | Mis-click Test | Pulsar CTA «Pagar» | Pulsar CTA «Pedir ahora» | % primer clic correcto |
 | 2 | Tarea guiada | Realizar un pedido take away de 2 platos | Filtrar hamburguesas sin gluten y añadir una al carrito | Tiempo (s) + nº clics |
-| 3 | Tarea guiada | Consultar el menú y encontrar un plato concreto | Localizar un foodtruck en el mapa interactivo y ver su tiempo de cola | Tiempo (s) + % éxito |
-| 4 | Tarea guiada | Hacer una reserva para 2 personas | Reservar mesa para 3 personas y obtener el QR de confirmación | % éxito |
+| 3 | Tarea guiada | Consultar el menú y encontrar un plato concreto | Localizar la ubicacion y contacto del local | Tiempo (s) + % éxito |
+| 4 | Tarea guiada | Hacer una reserva para 2 personas | Encontrar como hacer la reserva | % éxito |
 | 5 | Cuestionario SUS | → ambos casos | → ambos casos | Puntuación 0-100 |
 | 6 | Eye-tracking | — (no se aplica) | varias pantallas | TTFF + %AOI |
 
