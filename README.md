@@ -264,6 +264,9 @@ En este apartado se identifican los usuarios participantes en las pruebas, inclu
 
 ### 4.b Diseño de las pruebas 
 
+Se describen las pruebas seleccionadas para la evaluación de los prototipos, adaptadas al tipo de aplicación de cada grupo, indicando los objetivos y métricas asociadas.
+
+
 | # | Tipo de prueba (Maze) | Caso A – Osaka Bowl & Roll | Caso B – Remake Champions Burger | Métrica principal |
 |---|----------------------|---------------------------|-----------------------------------|-------------------|
 | 1 | Mis-click Test | Pulsar CTA «Pedir ahora» | Pulsar CTA «Ver carta» | % primer clic correcto |
