@@ -3,12 +3,11 @@
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
+
 # Evaluación de usabilidad del proyecto Remake Champions Burger
 **Fecha:** Mayo 2026
 
-![Proyecto](img/4a_ABTest.png)
-
-**Enlace al repositorio:** https://github.com/DIU3-Duros/UX_CaseStudy
+**Enlace al repositorio:** https://github.com/DIU3-Clenchaos/UX_CaseStudy
 
 ---
 
@@ -46,7 +45,7 @@ Informe elaborado por el equipo **DIU1_SP** (Sergio Sánchez González y Paula C
 
 **Herramientas utilizadas:**
 - **GazeRecorder** para el análisis de Eye Tracking.
-- **Hoja de cálculo SUS** (plantilla DIU19) para el cálculo de puntuaciones.
+- **Hoja de cálculo SUS** para el cálculo de puntuaciones.
 - Observación directa con toma de notas durante las pruebas de tareas.
 
 ---
