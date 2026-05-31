@@ -310,9 +310,23 @@ Conclusión: El Caso A (Osaka Bowl & Roll) es más usable. Obtiene mejores resul
 
 ### 4.e Aplicación del método Eye Tracking 
 
-Se analiza el recorrido visual de los usuarios mediante mapas de calor. El objetivo es detectar problemas de visibilidad, jerarquía visual y localización de acciones principales dentro de la interfaz del Caso B (Clenchaos).
+Para este método hemos utilizado la herramienta GazeRecorder. Las pruebas se llevaron a cabo con 5 participantes por caso, bajo nuestra supervisión y con una serie de instrucciones previas para que realizasen una tarea concreta en cada pantalla. Se definió un área de interés (AOI) por pantalla, dejando entre 10 y 15 segundos por imagen para registrar los movimientos oculares.
 
-* Herramienta: GazeRecorder (Free) — 5 usuarios
+Caso A – Osaka Bowl & Roll
+
+Se evaluaron tres pantallas del prototipo: la Carta, la Reserva y el Pedido.
+En la pantalla de Carta, la atención se concentró principalmente en la imagen del primer plato (Hakata Tonkotsu Ramen) y en los filtros de categoría superiores, especialmente en «Sushi» y «Especialidades». El nombre y el precio del plato también captaron fijaciones importantes. La zona del segundo plato recibió menos atención, lo que indica que los usuarios tendían a quedarse en el primer ítem visible sin hacer scroll.
+En la pantalla de Reserva, los usuarios focalizaron la mirada en los campos de fecha y hora, así como en los botones de selección de zona (Mesa alta, Mesa baja, Barra, Terraza). El botón «RESERVAR» al final de la pantalla recibió escasa atención, lo que sugiere que algunos usuarios podrían no llegar a verlo sin hacer scroll.
+En la pantalla de Pedido, la mirada se distribuía entre los nombres y precios de los platos y los controles de cantidad (+/−). El total y el botón «PAGAR» recibían fijaciones claras, lo que indica que el flujo de cierre del pedido es intuitivo.
+
+Caso B – Remake Champions Burger
+
+Se evaluaron tres pantallas del prototipo: la página de carta con filtros, el listado de hamburguesas y la sección de FAQ y contacto.
+En la pantalla de carta con filtros, los usuarios concentraron la atención en el área del primer producto visible (La Clásica Brasa) y en los filtros de tipo (Clásica, Picante, Vegana, Sin gluten). Los indicadores de cola y ubicación del foodtruck en la parte superior apenas recibieron fijaciones, siendo prácticamente ignorados.
+En el listado de hamburguesas, la mirada se dirigía al nombre y la descripción del primer plato (La Picantona) y al botón «+ Pídela», que resultó bien visible. Sin embargo, los platos inferiores recibían mucha menos atención, lo que indica que los usuarios no realizaban scroll de forma natural.
+En la pantalla de FAQ y contacto, las fijaciones se concentraron en las preguntas del acordeón y en la sección de contacto del footer (dirección y email), lo que confirma que los usuarios buscaban activamente información de contacto. El logotipo y la navegación superior captaban fijaciones residuales al inicio de la exploración.
+
+* Herramienta: GazeRecorder
 
 | AOI                         | TTTF (s) | % Usuarios que la vieron |
 | --------------------------- | -------- | ------------------------ |
@@ -320,10 +334,6 @@ Se analiza el recorrido visual de los usuarios mediante mapas de calor. El objet
 | Menú de navegación superior | 1,2      | 100 %                    |
 | Apartado de contacto        | 4,8      | 33 %                     |
 | Inicio de sesión            | 1,5      | 100 %                    |
-
-Los resultados muestran que los elementos principales de navegación son detectados rápidamente por la mayoría de usuarios. Sin embargo, ciertas acciones importantes como el acceso al contacto o algunos botones secundarios pasan desapercibidos debido a problemas de jerarquía visual y posicionamiento dentro de la interfaz.
-
-Además, durante las pruebas se observó que algunos usuarios dirigían inicialmente la mirada hacia imágenes decorativas antes que hacia los CTA principales, lo que indica que ciertos elementos visuales tienen demasiado peso frente a las acciones prioritarias del sistema.
 
 
 
