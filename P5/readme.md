@@ -71,9 +71,23 @@ Conclusión: El Caso A (Osaka Bowl & Roll) es más usable. Obtiene mejores resul
 
 ### 4.e Aplicación del método Eye Tracking 
 
-Se analiza el recorrido visual de los usuarios mediante mapas de calor. El objetivo es detectar problemas de visibilidad, jerarquía visual y localización de acciones principales dentro de la interfaz del Caso B (Clenchaos).
+Para este método hemos utilizado la herramienta GazeRecorder. Las pruebas se llevaron a cabo con 5 participantes por caso, bajo nuestra supervisión y con una serie de instrucciones previas para que realizasen una tarea concreta en cada pantalla. Se definió un área de interés (AOI) por pantalla, dejando entre 10 y 15 segundos por imagen para registrar los movimientos oculares.
 
-* Herramienta: GazeRecorder (Free) — 5 usuarios
+Caso A – Osaka Bowl & Roll
+
+Se evaluaron tres pantallas del prototipo: la Carta, la Reserva y el Pedido.
+En la pantalla de Carta, la atención se concentró principalmente en la imagen del primer plato (Hakata Tonkotsu Ramen) y en los filtros de categoría superiores, especialmente en «Sushi» y «Especialidades». El nombre y el precio del plato también captaron fijaciones importantes. La zona del segundo plato recibió menos atención, lo que indica que los usuarios tendían a quedarse en el primer ítem visible sin hacer scroll.
+En la pantalla de Reserva, los usuarios focalizaron la mirada en los campos de fecha y hora, así como en los botones de selección de zona (Mesa alta, Mesa baja, Barra, Terraza). El botón «RESERVAR» al final de la pantalla recibió escasa atención, lo que sugiere que algunos usuarios podrían no llegar a verlo sin hacer scroll.
+En la pantalla de Pedido, la mirada se distribuía entre los nombres y precios de los platos y los controles de cantidad (+/−). El total y el botón «PAGAR» recibían fijaciones claras, lo que indica que el flujo de cierre del pedido es intuitivo.
+
+Caso B – Remake Champions Burger
+
+Se evaluaron tres pantallas del prototipo: la página de carta con filtros, el listado de hamburguesas y la sección de FAQ y contacto.
+En la pantalla de carta con filtros, los usuarios concentraron la atención en el área del primer producto visible (La Clásica Brasa) y en los filtros de tipo (Clásica, Picante, Vegana, Sin gluten). Los indicadores de cola y ubicación del foodtruck en la parte superior apenas recibieron fijaciones, siendo prácticamente ignorados.
+En el listado de hamburguesas, la mirada se dirigía al nombre y la descripción del primer plato (La Picantona) y al botón «+ Pídela», que resultó bien visible. Sin embargo, los platos inferiores recibían mucha menos atención, lo que indica que los usuarios no realizaban scroll de forma natural.
+En la pantalla de FAQ y contacto, las fijaciones se concentraron en las preguntas del acordeón y en la sección de contacto del footer (dirección y email), lo que confirma que los usuarios buscaban activamente información de contacto. El logotipo y la navegación superior captaban fijaciones residuales al inicio de la exploración.
+
+* Herramienta: GazeRecorder
 
 | AOI                         | TTTF (s) | % Usuarios que la vieron |
 | --------------------------- | -------- | ------------------------ |
@@ -82,25 +96,27 @@ Se analiza el recorrido visual de los usuarios mediante mapas de calor. El objet
 | Apartado de contacto        | 4,8      | 33 %                     |
 | Inicio de sesión            | 1,5      | 100 %                    |
 
-Los resultados muestran que los elementos principales de navegación son detectados rápidamente por la mayoría de usuarios. Sin embargo, ciertas acciones importantes como el acceso al contacto o algunos botones secundarios pasan desapercibidos debido a problemas de jerarquía visual y posicionamiento dentro de la interfaz.
-
-Además, durante las pruebas se observó que algunos usuarios dirigían inicialmente la mirada hacia imágenes decorativas antes que hacia los CTA principales, lo que indica que ciertos elementos visuales tienen demasiado peso frente a las acciones prioritarias del sistema.
-
 
 
 ### 4.f Usability Report de B
 
-El informe final de usabilidad sobre la aplicación del grupo compañero resume los principales problemas detectados durante las pruebas de usuario, el análisis Eye Tracking y los resultados obtenidos mediante el cuestionario SUS.
+### 4.f Usability Report de B — Remake Champions Burger (DIU3.Clenchaos)
 
-| Severidad | Hallazgo                                 | Evidencia                                           | Recomendación                                           |
-| --------- | ---------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
-| Alta      | CTA «Reservar» con poca visibilidad      | TTTF 2,4 s ; 33 % de usuarios tardan en localizarlo | Aumentar tamaño y utilizar color primario más llamativo |
-| Alta      | Apartado de contacto poco accesible      | 67 % no lo encuentran fácilmente                    | Reubicar acceso en menú principal o footer visible      |
-| Media     | Flujo de reserva con demasiados pasos    | Usuarios necesitan ayuda durante navegación         | Simplificar flujo y reducir número de clics             |
-| Baja      | Exceso de elementos visuales decorativos | Eye Tracking muestra distracción visual             | Reducir protagonismo de imágenes secundarias            |
+El informe final de usabilidad sobre el proyecto del equipo DIU3.Clenchaos resume los principales problemas detectados durante las pruebas de tareas, el análisis Eye Tracking con GazeRecorder y los resultados del cuestionario SUS.
 
-Clenchaos presenta una propuesta visual moderna y atractiva, aunque durante las pruebas se detectaron ciertos problemas relacionados con la jerarquía visual y la localización de acciones importantes dentro de la interfaz.
+| Severidad | Hallazgo | Evidencia | Recomendación |
+|-----------|----------|-----------|---------------|
+| Alta | Información de contacto y ubicación poco accesible | El 60% de los usuarios no localizó la dirección ni el teléfono sin ayuda en la tarea 3; el eye tracking muestra fijaciones en el footer solo al final de la exploración | Incluir un acceso directo a contacto en la barra de navegación principal, no solo en el footer |
+| Alta | Indicadores de cola y foodtruck ignorados | El eye tracking de la pantalla de carta revela que los badges de «Cola actual» y «Foodtruck» en la cabecera no reciben casi ninguna fijación | Reposicionarlos junto a cada hamburguesa o hacerlos más prominentes mediante color y tamaño |
+| Media | Scroll poco natural en el listado de carta | Los mapas de calor muestran que los usuarios se quedan en el primer plato visible y no exploran los siguientes de forma espontánea | Añadir una indicación visual de scroll o mostrar parcialmente el segundo plato para invitar a continuar |
+| Media | Filtros de alérgenos poco utilizados | En la tarea de filtrar sin gluten, los usuarios con baja Exp.TIC (Tomás, Remedios) no identificaron los filtros de exclusión a la derecha | Unificar los filtros en una sola zona y etiquetarlos con mayor claridad |
+| Baja | Botón «+ Pídela» visible pero aislado | Aunque el eye tracking confirma que el botón se ve, algunos usuarios dudaron si al pulsarlo se añadía al carrito o abría un detalle del producto | Añadir feedback visual inmediato (contador en el carrito) al pulsar el botón |
 
-Las principales dificultades encontradas están relacionadas con la visibilidad de algunos botones clave y la cantidad de elementos visuales presentes en determinadas pantallas, lo que puede generar distracciones durante la navegación.
+Remake Champions Burger presenta una propuesta visual sólida, con una estética oscura y moderna coherente con la identidad del evento, y una estructura de carta clara que facilita la exploración de los productos. El cuestionario SUS refleja una puntuación media de **74 puntos** (*Good*), con mejores resultados entre usuarios con experiencia tecnológica media-alta (Marcos, 87,5; Darío, 77,5) y resultados más bajos entre perfiles con menor Exp.TIC (Tomás y Remedios, 57,5).
 
-La mejora de la jerarquía visual, la simplificación de ciertos flujos y una distribución más clara de los elementos interactivos podrían aumentar significativamente la eficiencia de uso y mejorar la experiencia general del usuario.
+Los principales problemas detectados se concentran en la localización de información secundaria (contacto, ubicación) y en la forma en que los usuarios con menos experiencia digital interactúan con el sistema de filtros. El eye tracking confirma que el área superior de la carta, donde se sitúan los indicadores de cola y foodtruck, pasa desapercibida para la mayoría de los participantes, lo que representa una pérdida de valor para una funcionalidad diferenciadora del proyecto.
+
+Con mejoras en la jerarquía visual, una redistribución de los elementos informativos clave y un feedback más claro en las acciones del carrito, el proyecto tiene potencial para alcanzar una usabilidad *Excellent* en futuras iteraciones.
+
+<br>
+
